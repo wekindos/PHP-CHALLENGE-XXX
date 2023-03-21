@@ -21,7 +21,13 @@ This challenge is good for begginers and developers who like to learn
  <a href="https://github.com/wekindos/PHP-CHALLENGE-XXX/tree/main/PHP%20CHALENGE%20DAY%2003">DAY 03 - 14 </a><br>
  <a href="https://github.com/wekindos/PHP-CHALLENGE-XXX/tree/main/PHP%20CHALLENGE%20DAY%2004">DAY 04 - 14</a><br>
  <a href="https://github.com/wekindos/PHP-CHALLENGE-XXX/tree/main/PHP%20CHALLENGE%20DAY%2005/signup_login_form">DAY 05 - 14</a><br>
-
+ <a href="kindoo113.000webhostapp.com">DAY 06 to 14</a><br>
+ <p>
+From the sixth day I started making a blog using php and mysql.
+I completed the blog in five days and hosted it through 000webhost.
+link below
+</p>
+<a href="kindoo113.000webhostapp.com">My Blog</a><br>
 ## Help
 
 Any advise for common problems or issues Contact me via.<br>
